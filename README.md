@@ -1,1 +1,1 @@
-# LZ77
+# LZ77 algortihm impelemented in java.
